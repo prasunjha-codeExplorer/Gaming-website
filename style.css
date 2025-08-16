@@ -260,7 +260,9 @@ img{
 .content-center{
     text-align: center;
 }
-
+.content-center h2{
+    color: #1b6fab7d;
+}
 .center{
     padding-left: 40%;
 }
